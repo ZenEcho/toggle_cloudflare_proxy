@@ -15,6 +15,8 @@ Cloudflare API 密钥：[API 令牌 | Cloudflare](https://dash.cloudflare.com/pr
 
 Cloudflare 账户 ID：Cloudflare 站点设置里的概述页右下角
 
+[![小云朵开启关闭权限.png](https://cdn-us.imgs.moe/2023/04/13/64381f585573d.png)](https://cdn-us.imgs.moe/2023/04/13/64381f585573d.png)
+
 # 错误信息
 
 如果运行脚本时遇到了 jq: command not found 错误，那么可能是因为您的系统上没有安装 jq 命令行工具。
